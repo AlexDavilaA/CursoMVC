@@ -19,7 +19,8 @@ namespace CapaPresentacionAdmin
                 "~/Scripts/loadingoverlay/loadingoverlay.min.js",
                 "~/Scripts/sweetalert.min.js",
                 "~/Scripts/jquery.validate.js",
-                "~/Scripts/jquery-ui-1.13.3.min.js"
+                "~/Scripts/jquery-ui-1.13.3.min.js",
+                "dddd"
                 ));
 
             /*  bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
